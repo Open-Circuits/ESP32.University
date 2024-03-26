@@ -1,0 +1,1 @@
+- [How To Read from ESP32 - CLONE/BACKUP Everything](https://youtu.be/2GwzbBn7uRw)
