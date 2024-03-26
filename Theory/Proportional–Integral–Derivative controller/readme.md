@@ -4,4 +4,6 @@ wiki: https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93deriva
 
 guide: https://www.ni.com/en/shop/labview/pid-theory-explained.html
 
-project: https://www.instructables.com/PID-Controlled-Thermostat-Using-ESP32-Applied-to-a/
+# project:
+- https://www.instructables.com/PID-Controlled-Thermostat-Using-ESP32-Applied-to-a/
+- [COMPREHENSIVE: PID CONTROLLER for DC MOTOR with Timer Interrupts and Anti-windup](https://youtu.be/QSIksPKndEs)
